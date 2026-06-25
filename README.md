@@ -33,7 +33,9 @@ git clone https://github.com/DevganiyaNirbhay/Attendance-App.git
 
 2. Open the project in Android Studio
 
-3. Sync Gradle and Run
+3. Register ATTND app in firebase with com.example.attnd package and get google-services.json file and replace it with current google-services.json
+
+4. Sync Gradle and Run
 
 ## Developer
 
