@@ -37,7 +37,7 @@ git clone https://github.com/DevganiyaNirbhay/Attendance-App.git
 
 ## Developer
 
-Kachariya Parth Hareshbhai
+Nirbhay Devganiya & Parth Kachariya
 
 ## License
 
