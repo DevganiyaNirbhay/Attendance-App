@@ -18,7 +18,7 @@ An Android-based Attendance Management Application developed to simplify student
 
 - Java
 - Android Studio
-- Room Database
+- Room Database & SQL 
 - Material Design Components
 - Firebase
 
