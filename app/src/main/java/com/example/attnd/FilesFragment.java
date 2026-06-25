@@ -246,7 +246,7 @@ public class FilesFragment extends Fragment implements FilesAdapter.OnFileItemLi
         MaterialAlertDialogBuilder builder = new MaterialAlertDialogBuilder(requireContext());
         builder.setBackground(ContextCompat.getDrawable(getContext(), R.drawable.dialog_bg_rounded));
         builder.setTitle((CharSequence) "Rename File");
-        View view = LayoutInflater.from(getContext()).inflate(R.layout.dialog_add_class, (ViewGroup) null);
+        View view = LayoutInflater.from(getContext()).inflate(R.layout.jayho_renamefile, (ViewGroup) null);
         final TextInputEditText input = (TextInputEditText) view.findViewById(R.id.etClassName);
         input.setText(file.getName());
         input.setSelection(file.getName().length());
